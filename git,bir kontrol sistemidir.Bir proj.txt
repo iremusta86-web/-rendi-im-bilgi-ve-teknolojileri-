@@ -1,0 +1,14 @@
+git,bir kontrol sistemidir.Bir projenin birden fazla kişi ve bilgisayardan  tarfından eş zamanlı yazılmasını sağlar.kod paylaşımı yapılır.
+
+backend ,bir uygulamanın websitenin görünmeyen arka kısmıdır verilerin işlendiği saklamdığı kısımdır.
+
+frontend, bir uygulamanın görünen görsel daha estetik olan kullanıcılar ile olan ilşkisini düzenler mağzanın vitrini gibi.
+
+fullstack ikisinide yapan kişidir.
+
+algoritma belirli bir problemi sorunu ve bir amaca ulaşmak amacıyla yapılan yoldur.
+
+sql temel görevi saklamak düzenlemek analiz etmektir ,verileri düzenleyen ve analiz eden bir programlama dilidir.
+
+yapay zeka bilgisayarların insan benzeri düşünme, öğrenme ve problem çözme yeteneklerini taklit etmesini sağlayan teknolojidir. 🤖
+
